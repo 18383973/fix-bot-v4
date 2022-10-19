@@ -30,7 +30,7 @@ ${htjava} *🧮 Kelas* : IX
 ${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
 ${htjava} *💬 Sifat* : Baik , Royal , Enakan dah 😁
 ${htjava} *🗺️ Tinggal* : Indo, Klaten, Jawa Tengah
-${htjava} *❤️ Waifu* : -
+${htjava} *❤️ Waifu* : Elaina 🗿
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
