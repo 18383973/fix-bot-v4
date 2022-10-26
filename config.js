@@ -86,7 +86,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 /*============== STAFF ==============*/
 global.owner = [
   ['6285878258447', 'Vincentt ?', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6285600648045', 'VinnXD', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
